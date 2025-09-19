@@ -2,7 +2,7 @@ package com.nicolas.taller;
 
 public class Main {
     public static void main(String[] args) {
-/*
+
         System.out.println("Metodo Normal:");
 
         MultiplicacionMetodoNormal operacionNormal1 = new MultiplicacionMetodoNormal(100);
@@ -50,7 +50,6 @@ public class Main {
         operacionKaratsuba3.solucionMultiplicacion();
 
         System.out.println("========================================================================");
-*/
 
         System.out.println("Metodo Normal:");
 
